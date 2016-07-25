@@ -74,3 +74,7 @@ const allowCrossDomain = function (req, res, next) {
 };
 app.use(allowCrossDomain);
 ```
+
+## TODO
+
+* Add logic to make this work in a production environment

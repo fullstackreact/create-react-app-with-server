@@ -63,3 +63,7 @@ In our API server, we let the browser know it's OK if a request is originating f
 
 {lang=javascript,crop-query=context(.allowCrossDomain,0,1),format=gfm}
 <<[](server.js)
+
+## TODO
+
+* Add logic to make this work in a production environment
